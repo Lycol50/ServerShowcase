@@ -62,7 +62,7 @@ class main extends PluginBase implements Listener
                     $this->timer4--;
                 } elseif ($this->timer4 = 0) {
                     $sender->teleport(new Position($config->get("Pos5", $arr5)));
-                    $sender->sendPopup($config->get("Text"));
+                    $sender->sendPopup($config->get("Text5"));
                     $this->timer5--;
                 } else {
                     $sender->sendPopup("Showcase is done, thank you for viewing.");
