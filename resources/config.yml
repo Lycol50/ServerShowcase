@@ -1,0 +1,32 @@
+spawn-world: ""
+showcase-world: ""
+
+Pos1:
+  - 0
+  - 0
+  - 0
+Text1: "test"
+
+Pos2:
+  - 0
+  - 0
+  - 0
+Text2: "test"
+
+Pos3:
+  - 0
+  - 0
+  - 0
+Text3: "test"
+
+Pos4:
+  - 0
+  - 0
+  - 0
+Text4: "test"
+
+Pos5:
+  - 0
+  - 0
+  - 0
+Text5: "test"

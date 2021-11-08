@@ -1,0 +1,14 @@
+name: ServerShowcase
+main: princepines\ServerShowcase\main
+version: 1.0.0
+author: princepines
+api: 3.0.0
+description: Showcase your server by /showcase command
+website: https://github.com/Lycol50/ServerShowcase
+commands:
+  showcase:
+    description: Start Showcase
+    default: true
+  scver:
+    description: Show about this plugin
+    default: true
